@@ -1,7 +1,7 @@
 # dashboards
 Making dashboards for practice, having fun
 
-### Первый проект - Financial performance of beauty retail. 
+### Financial performance of beauty retail. 
 (https://datalens.ru/a7mn7mxcqv6wu?_lang=en&_theme=dark&tab=kN)
 #### Контекст: 
    Дашборд предназначен для компании, занимающейся продажей товаров в сфере красоты. Нужен дашборд для анализа основных финансовых показателей брендов, входящих в вашу группу компаний. Этот дашборд позволит отслеживать общие метрики и поможет решать задачи:
